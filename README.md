@@ -26,4 +26,4 @@ I'm doing front and back, front using VueJS and back using Laravel.
 ### Contact me
 <a href="mailto:mare.sampbn@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://discordapp.com/users/141206144264699904/"><img src="https://img.shields.io/badge/discord-%7389D8.svg?&color=7289da&style=for-the-badge&logo=discord&logoColor=white"/>
-  <a href="https://discordapp.com/users/141206144264699904/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink"/>
+  <a href="https://discordapp.com/users/141206144264699904/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&color=pink&style=for-the-badge&logo=instagram&logoColor=white"/>
